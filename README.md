@@ -16,7 +16,7 @@
 
 
 ## Publications
-- 闫里鹏,牟俊霖. 利率冲击对城镇劳动收入差距的影响[J]. 劳动经济研究, 2025,录用待刊 [replication codes](https://github.com/PelyYan/R-Gini-CFPS)
+- 闫里鹏,牟俊霖. 利率冲击对城镇劳动收入差距的影响[J]. 劳动经济研究, 2025,13(05): 117-141. [replication codes](https://github.com/PelyYan/R-Gini-CFPS)
 
 - 牟俊霖,闫里鹏(通讯作者). 人才政策、优势产业发展与城市创新活力[J]. 中南财经政法大学学报, 2025,(01):121-133.
 
