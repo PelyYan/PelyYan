@@ -1,7 +1,7 @@
 ## About Me
 
 - Lipeng Yan (闫里鹏)
-- Assistant Professor - School of Labor Economics,Capital University of Economics And Business, China [Links](https://sle.cueb.edu.cn/szdw/ldjjx/a490e9c2255a43768a33e46d4c3cefcd.htm)
+- Lecturer (equivalent to Assistant Professor) - School of Labor Economics,Capital University of Economics And Business, China [Links](https://sle.cueb.edu.cn/szdw/ldjjx/a490e9c2255a43768a33e46d4c3cefcd.htm)
 - E-mail : yanlipeng1228@foxmail.com 
 - [Home Page](https://sites.google.com/view/lipeng-yan/home)
 - :camera:[Hobbies](https://500px.com/p/421152588?view=photos)
