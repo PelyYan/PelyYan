@@ -13,7 +13,7 @@
 - Trade Policy（贸易政策）
 
 ## News
-
+- [推荐阅读 ](https://github.com/PelyYan/Econ_Reading_List)
 
 ## Publications
 - 闫里鹏,牟俊霖. 利率冲击对城镇劳动收入差距的影响[J]. 劳动经济研究, 2025,13(05): 117-141. [replication codes](https://github.com/PelyYan/R-Gini-CFPS)
