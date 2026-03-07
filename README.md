@@ -14,7 +14,7 @@
 
 ## News
 - [推荐阅读2025.11.13更新](https://github.com/PelyYan/Econ_Reading_List)
-- [关于AI的思考]()
+- [关于AI的思考](https://github.com/PelyYan/Econ_Reading_List/blob/b563dcbc8633544d8c94d72e011100d0189ca751/AI/AI.md#%E5%8A%B3%E5%8A%A8%E7%BB%8F%E6%B5%8E%E5%AD%A6%E7%A0%94%E7%A9%B6%E4%B8%8Eai%E4%BD%BF%E7%94%A8)
 
 ## Publications
 - 闫里鹏,牟俊霖. 利率冲击对城镇劳动收入差距的影响[J]. 劳动经济研究, 2025,13(05): 117-141. [replication codes](https://github.com/PelyYan/R-Gini-CFPS)
