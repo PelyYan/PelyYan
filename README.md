@@ -17,6 +17,11 @@
 - [关于AI的思考](https://github.com/PelyYan/Econ_Reading_List/blob/b563dcbc8633544d8c94d72e011100d0189ca751/AI/AI.md#%E5%8A%B3%E5%8A%A8%E7%BB%8F%E6%B5%8E%E5%AD%A6%E7%A0%94%E7%A9%B6%E4%B8%8Eai%E4%BD%BF%E7%94%A8)
 
 ## Publications
+
+- Shanshan Wu, Chuliang Luo, Lipeng Yan(Corresponding author),  Medical Insurance and Medical Expenditure Inequality in Urban China[J]. Journal of Asian Economics, 2026, Accepted.
+
+- 李实,吴珊珊,闫里鹏,李懂文. 我国农村地区消费不平等变动分析:2013—2023年[J]. 	农业经济问题, 2026,(02):14-28.
+
 - 闫里鹏,牟俊霖. 利率冲击对城镇劳动收入差距的影响[J]. 劳动经济研究, 2025,13(05): 117-141. [replication codes](https://github.com/PelyYan/R-Gini-CFPS)
 
 - 牟俊霖,闫里鹏(通讯作者). 人才政策、优势产业发展与城市创新活力[J]. 中南财经政法大学学报, 2025,(01):121-133.
