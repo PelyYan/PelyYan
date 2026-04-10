@@ -18,7 +18,7 @@
 
 ## Publications
 
-- Shanshan Wu, Chuliang Luo, Lipeng Yan(Corresponding author),  Medical Insurance and Medical Expenditure Inequality in Urban China[J]. Journal of Asian Economics, 2026, Accepted.
+- Shanshan Wu, Chuliang Luo, Lipeng Yan(Corresponding author),  Medical Insurance and Medical Expenditure Inequality in Urban China[J]. Journal of Asian Economics, 2026 ,104, 102171. [link](https://doi.org/10.1016/j.asieco.2026.102171).
 
 - 李实,吴珊珊,闫里鹏,李懂文. 我国农村地区消费不平等变动分析:2013—2023年[J]. 	农业经济问题, 2026,(02):14-28.
 
