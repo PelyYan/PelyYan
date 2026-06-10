@@ -13,9 +13,9 @@
 - Trade Policy（贸易政策）
 
 ## News
-- [推荐阅读2025.11.13更新](https://github.com/PelyYan/Econ_Reading_List)
+- 2026.06.11 上传了一个codex + chrome 插件下载cnki pdf 的skill `cnki-literature-download`
 - [关于AI的思考](https://github.com/PelyYan/Econ_Reading_List/blob/b563dcbc8633544d8c94d72e011100d0189ca751/AI/AI.md#%E5%8A%B3%E5%8A%A8%E7%BB%8F%E6%B5%8E%E5%AD%A6%E7%A0%94%E7%A9%B6%E4%B8%8Eai%E4%BD%BF%E7%94%A8)
-
+- [推荐阅读2025.11.13更新](https://github.com/PelyYan/Econ_Reading_List)
 ## Publications
 
 - Shanshan Wu, Chuliang Luo, Lipeng Yan(Corresponding author),  Medical Insurance and Medical Expenditure Inequality in Urban China[J]. Journal of Asian Economics, 2026 ,104, 102171. [link](https://doi.org/10.1016/j.asieco.2026.102171).
